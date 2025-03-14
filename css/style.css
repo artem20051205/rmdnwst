@@ -236,6 +236,8 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 @keyframes slideIn {
@@ -401,6 +403,8 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 auto; /* Center the model */
+    padding: 20px; /* Add padding to create space from the border */
 }
 
 @media (max-width: 768px) {
